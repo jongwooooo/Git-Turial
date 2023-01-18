@@ -18,11 +18,11 @@ public class my_module {
 
 
 
-		//int sub = x-y;
+		int sub = x-y;
 
 
 
-		//int mult = x*y;
+		int mult = x*y;
 
 
 
@@ -42,11 +42,11 @@ public class my_module {
 
 
 
-		//System.out.println(sub);
+		System.out.println(sub);
 
 
 
-		//System.out.println(mult);
+		System.out.println(mult);
 
 
 
